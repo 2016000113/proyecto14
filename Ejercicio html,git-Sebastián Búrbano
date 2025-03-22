@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lange="es">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,18 +8,18 @@
 <body bgcolor="#f0f0f0" style="text-align: center;">
 	<h1>Colegio Salesiano Don Bosco</h1>
 	<nav>
-		<u1 style="list-style-type: none;padding: 0;">
-			<li><a href="#">Guía de aprendizaje 1 </a></li>
-			<li><a href="#">Guía de aprendizaje 2 </a></li>
-			<li><a href="#">Guía de aprendizaje 3 </a></li>
-			<li><a href="#">Guía de aprendizaje 4 </a></li>
-			<li><a href="#">Prueba Corta 1 </a></li>
-			<li><a href="#">Prueba Corta 2 </a></li>
-			<li><a href="#">Examen de Unidad </a></li>
-		</u1>
+		<ul style="list-style-type: none; padding: 0;">
+			<li><a href="#">Guía de aprendizaje 1</a></li>
+			<li><a href="#">Guía de aprendizaje 2</a></li>
+			<li><a href="#">Guía de aprendizaje 3</a></li>
+			<li><a href="#">Guía de aprendizaje 4</a></li>
+			<li><a href="#">Prueba Corta 1</a></li>
+			<li><a href="#">Prueba Corta 2</a></li>
+			<li><a href="#">Examen de Unidad</a></li>
+		</ul>
 	</nav>
 	<h2>Datos Académicos</h2>
-	<table border="1"ALING="center">
+	<table border="1" align="center">
 		<tr>
 			<th><b>Campo</b></th>
 			<th><b>Dato</b></th>
